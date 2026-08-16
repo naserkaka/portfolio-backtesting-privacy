@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Privacy Policy — Portfolio Backtesting
 ---
 
 # Privacy Policy — Portfolio Backtesting
